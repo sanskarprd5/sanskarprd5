@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanskarprd5
-- 👀 I’m interested in Web Dev and Data Science
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 mail me at- sanskarprd5@gmail.com
